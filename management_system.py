@@ -1,3 +1,6 @@
+#YOUTUBE LINK: https://youtu.be/Y239F809wHc
+#GITHUB LINK: https://github.com/launchland/Alberta_Heath_Management
+
 #DOCTOR
 class Doctor:
   #constructor
@@ -160,7 +163,7 @@ class Patient:
 
   #string
   def __str__(self):
-    return f"{self.id}_{self.name}_{self.disease} {self.gender} {self.age}"
+    return f"{self.id}_{self.name}_{self.disease}_{self.gender}_{self.age}"
 
 #PATIENT MANAGER
 class PatientManager:
