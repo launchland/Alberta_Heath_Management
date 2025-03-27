@@ -1,6 +1,9 @@
 # Alberta_Heath_Management (CPRG216 Classes Project)
 
-to look over
+GROUP VIDEO EXPLAINING PROJECT:
+https://www.youtube.com/watch?v=Y239F809wHc
+
+
 
 doctors.txt
 id_name_specilist_timing_qualification_roomNb
