@@ -1,6 +1,6 @@
 # Alberta_Heath_Management (CPRG216 Classes Project)
 
-GROUP VIDEO EXPLAINING PROJECT:
+GROUP VIDEO PROJECT RUNDOWN:
 https://www.youtube.com/watch?v=Y239F809wHc
 
 
